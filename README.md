@@ -30,6 +30,7 @@ This project helped me explore:
 
 1. Clone the repository  
 git clone https://github.com/syedaUroojFatimaa/Crypto-Agent
+
 cd crypto-agent
 
 
