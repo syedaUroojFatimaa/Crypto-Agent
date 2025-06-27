@@ -29,8 +29,7 @@ This project helped me explore:
 ## 📦 Installation & Usage
 
 1. Clone the repository  
-git clone https://github.com/syedaUroojFatimaa/Crypto-Agent
-
+git clone https://github.com/syedaUroojFatimaa/Crypto-Agent 
 cd crypto-agent
 
 
