@@ -26,9 +26,8 @@ This project helped me explore:
 - How to build chat-driven apps using Chainlit  
 - Real-time data integration with a clean frontend experience
 
-## 📦 Installation & Usage
+## Clone the repository
 
-1. Clone the repository  
 git clone https://github.com/syedaUroojFatimaa/Crypto-Agent 
 cd crypto-agent
 
